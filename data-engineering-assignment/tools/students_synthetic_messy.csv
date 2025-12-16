@@ -1,0 +1,1001 @@
+Name,Email,Phone,Year,Dept
+Student 1,student1@example.com,9486334954,1,CS
+Student 2,student2@example.com,,5,ME
+Student 3,student3@example.com,9895227806,first,EE
+Student 4,student4@example.com,9406917230,6,ME
+,student5@example.com,,first,EE
+Student 6,student6@example.com,9852123049,4,CS
+Student 7,student7@example.com,9239694019,3,
+Student 8,student8@example.com,9520092021,4,ME
+Student 9,student9@example.com,9264404361,2,EE
+Student 10,student10@example.com,,5,
+,student11@example.com,,1,CS
+Student 12,student12@example.com,9898500836,3,
+Student 13,student13@example.com,,,
+Student 14,student14@example.com,,2,EE
+Student 15,student15@example.com,9273337799,,CS
+Student 16,student16@example.com,9944798498,3,ME
+Student 17,student17@example.com,9869852779,first,CS
+Student 18,student18@example.com,,3,
+Student 19,invalid-email,9105101128,2,CS
+Student 20,student20@example.com,9901142908,6,EE
+Student 21,student21@example.com,9303729325,4,CS
+,student22@example.com,,5,ME
+,student23@example.com,,5,ME
+Student 24,student21@example.com,9424542604,,
+Student 25,student25@example.com,9263695290,3,ME
+Student 26,student26@example.com,9184677755,first,
+Student 27,student27@example.com,9819734668,1,CS
+Student 28,student28@example.com,9442589477,2,
+Student 29,student29@example.com,9670734710,5,
+Student 30,invalid-email,9413065987,1,CS
+Student 31,invalid-email,9120308144,6,
+Student 32,student32@example.com,9997818964,6,ME
+Student 33,invalid-email,9656284568,2,
+Student 34,student34@example.com,9401629691,1,
+Student 35,student35@example.com,9851319345,5,CS
+Student 36,student36@example.com,,1,
+Student 37,student37@example.com,9280451641,3,
+Student 38,student38@example.com,9181503367,3,
+Student 39,student39@example.com,9671539893,4,ME
+Student 40,student40@example.com,9429242553,2,EE
+Student 41,student41@example.com,,3,ME
+Student 42,student42@example.com,9351417359,4,CS
+Student 43,student43@example.com,,first,
+Student 44,student44@example.com,9377078625,3,
+,student45@example.com,,6,ME
+Student 46,student46@example.com,9287959472,1,EE
+Student 47,student47@example.com,9730627751,5,CS
+Student 48,invalid-email,9888125997,1,ME
+Student 49,student49@example.com,,4,ME
+Student 50,invalid-email,9996146621,2,
+Student 51,student51@example.com,9398627009,4,CS
+Student 52,student52@example.com,9394661424,,ME
+Student 53,student53@example.com,9614621556,1,
+Student 54,student54@example.com,9760660578,2,EE
+Student 55,student55@example.com,,6,ME
+,student56@example.com,,4,EE
+Student 57,student57@example.com,9639429198,5,
+Student 58,student52@example.com,9267079490,3,EE
+Student 59,student59@example.com,9277782339,2,
+Student 60,student60@example.com,,2,
+Student 61,student61@example.com,9244422829,,ME
+,student62@example.com,,4,
+Student 63,student63@example.com,9764499285,6,ME
+Student 64,student64@example.com,,1,
+Student 65,student65@example.com,9693579866,,ME
+Student 66,student66@example.com,9475427786,3,
+Student 67,student67@example.com,9756800038,3,
+Student 68,student68@example.com,9906285983,6,
+Student 69,student69@example.com,9339368765,2,ME
+Student 70,student70@example.com,9243988640,,EE
+Student 71,student71@example.com,,5,
+Student 72,student16@example.com,9101859846,6,
+Student 73,student73@example.com,9554199729,3,CS
+Student 74,student74@example.com,9242168822,5,ME
+Student 75,student75@example.com,9609662052,5,
+Student 76,student76@example.com,9888770448,6,
+Student 77,student42@example.com,,first,
+Student 78,student78@example.com,9271232761,1,CS
+Student 79,student79@example.com,9610310290,3,ME
+,student80@example.com,9984287388,5,CS
+Student 81,student81@example.com,9704758332,,
+Student 82,student82@example.com,9880413168,,CS
+Student 83,student83@example.com,,2,ME
+Student 84,student84@example.com,9279988555,6,EE
+Student 85,student40@example.com,9899726155,5,CS
+,student86@example.com,9934585597,2,
+,student87@example.com,,4,EE
+Student 88,student88@example.com,9145344897,1,ME
+,student89@example.com,,4,EE
+Student 90,student90@example.com,,2,
+Student 91,student91@example.com,9254084018,3,ME
+Student 92,student92@example.com,9374427691,4,
+Student 93,student93@example.com,9711467267,2,EE
+Student 94,student94@example.com,9291244665,4,
+Student 95,student95@example.com,9970963440,2,CS
+Student 96,student96@example.com,9737326687,1,CS
+Student 97,student97@example.com,9557595449,1,
+Student 98,student98@example.com,9954869164,2,ME
+Student 99,student99@example.com,,3,CS
+Student 100,student100@example.com,9968053959,5,CS
+,student101@example.com,9451818011,4,EE
+Student 102,student102@example.com,,1,ME
+Student 103,student103@example.com,,3,EE
+Student 104,student104@example.com,9225923601,6,
+Student 105,student105@example.com,9479760050,,ME
+Student 106,student106@example.com,9738029671,3,CS
+Student 107,student107@example.com,,4,EE
+,student108@example.com,,first,
+,student109@example.com,9971319622,2,EE
+Student 110,student110@example.com,9338554349,first,EE
+,student111@example.com,9997050018,3,
+Student 112,invalid-email,9499298847,1,
+Student 113,student113@example.com,9948163484,6,
+Student 114,invalid-email,9265890857,first,CS
+Student 115,student115@example.com,9298549208,6,
+Student 116,student116@example.com,,4,
+Student 117,student117@example.com,9623831305,1,EE
+,student118@example.com,9215048322,6,EE
+,student119@example.com,9456725097,3,ME
+Student 120,invalid-email,9240695159,6,EE
+Student 121,student121@example.com,9255124271,1,EE
+Student 122,student122@example.com,9108964713,first,CS
+Student 123,student123@example.com,9773659893,3,EE
+Student 124,invalid-email,9422005546,2,
+Student 125,student125@example.com,9100559456,,ME
+Student 126,student126@example.com,9101489802,4,EE
+Student 127,student127@example.com,9762095703,2,
+Student 128,student128@example.com,9415376989,1,ME
+Student 129,invalid-email,9255111351,4,CS
+,student130@example.com,,4,EE
+,student131@example.com,9915931217,5,
+Student 132,student21@example.com,9533304427,2,EE
+Student 133,student133@example.com,9838845913,6,
+Student 134,student134@example.com,,3,
+Student 135,student135@example.com,9526918593,,CS
+Student 136,student136@example.com,9355215596,4,EE
+Student 137,student137@example.com,9747222437,1,CS
+,student138@example.com,,6,EE
+Student 139,student139@example.com,9409746437,3,EE
+Student 140,student140@example.com,9525140733,,EE
+,student141@example.com,,4,
+Student 142,student142@example.com,9314704016,2,CS
+,student143@example.com,9762373133,2,
+Student 144,student144@example.com,9780758789,2,EE
+Student 145,invalid-email,9854175006,1,
+Student 146,student146@example.com,9693253005,6,
+Student 147,student147@example.com,9230616959,6,CS
+,student148@example.com,9231684063,2,
+Student 149,student149@example.com,9404663568,,
+Student 150,student150@example.com,,,EE
+Student 151,student151@example.com,9290268222,6,
+Student 152,student152@example.com,,6,
+Student 153,student153@example.com,9243587778,,EE
+Student 154,student154@example.com,,3,ME
+Student 155,student155@example.com,9793124742,4,
+Student 156,student156@example.com,9773981458,3,ME
+Student 157,student157@example.com,9466277745,6,CS
+Student 158,student158@example.com,9109762721,first,EE
+Student 159,student159@example.com,,,
+Student 160,student160@example.com,9451466337,3,
+Student 161,student161@example.com,9219255363,first,
+Student 162,student162@example.com,,first,ME
+Student 163,student163@example.com,9140377609,,ME
+Student 164,student164@example.com,9133943238,,
+Student 165,student165@example.com,9753322313,,CS
+Student 166,student92@example.com,,,EE
+Student 167,invalid-email,9476876819,4,
+Student 168,student168@example.com,,4,CS
+Student 169,invalid-email,,1,ME
+,invalid-email,,6,EE
+Student 171,student171@example.com,9915687859,,
+Student 172,student172@example.com,9581485539,5,
+,student173@example.com,9931202702,,ME
+,student174@example.com,9493865823,first,ME
+Student 175,student175@example.com,,6,CS
+Student 176,student176@example.com,9830632024,1,ME
+Student 177,student177@example.com,9213658312,2,CS
+Student 178,student119@example.com,9630763835,3,
+Student 179,student179@example.com,9940178943,6,ME
+Student 180,student180@example.com,9241516775,6,ME
+,student181@example.com,9714377235,first,EE
+Student 182,invalid-email,9591583514,first,
+Student 183,student183@example.com,9179335617,3,CS
+Student 184,student184@example.com,9411439771,6,EE
+Student 185,student185@example.com,9536935510,4,
+Student 186,student186@example.com,,4,EE
+Student 187,student187@example.com,9208970147,5,EE
+Student 188,student188@example.com,9933275487,4,EE
+Student 189,student189@example.com,9390080977,2,CS
+Student 190,invalid-email,9262728962,6,
+Student 191,student191@example.com,9434918821,first,EE
+Student 192,invalid-email,9382415390,2,
+,student193@example.com,,2,CS
+,student194@example.com,,2,CS
+Student 195,student195@example.com,9468964597,5,
+Student 196,invalid-email,9743831877,4,
+Student 197,student197@example.com,9669128629,first,ME
+,student198@example.com,,5,
+Student 199,student169@example.com,9597802948,6,
+Student 200,student200@example.com,9358457042,1,ME
+,student201@example.com,9420906177,1,CS
+Student 202,student202@example.com,,first,CS
+Student 203,invalid-email,9859378649,4,
+Student 204,invalid-email,9986397220,3,CS
+Student 205,student205@example.com,9195958436,6,
+Student 206,student206@example.com,,first,
+Student 207,student207@example.com,9973268166,first,CS
+Student 208,student208@example.com,9877097905,3,
+Student 209,student209@example.com,9308544575,6,CS
+Student 210,student210@example.com,9850513991,2,EE
+Student 211,student211@example.com,9304953227,3,CS
+Student 212,invalid-email,,5,
+Student 213,student213@example.com,9695025120,first,
+Student 214,student214@example.com,9322021468,1,EE
+Student 215,student185@example.com,9514151553,1,CS
+Student 216,student216@example.com,9996597592,,
+Student 217,student217@example.com,,5,
+Student 218,student218@example.com,9892752389,4,EE
+,student219@example.com,,6,EE
+Student 220,student220@example.com,9710202623,1,
+Student 221,invalid-email,,6,ME
+Student 222,student56@example.com,,2,CS
+Student 223,student223@example.com,9449054187,5,
+Student 224,student224@example.com,9333909501,3,
+Student 225,student225@example.com,9568034073,6,CS
+Student 226,student226@example.com,9562605071,6,EE
+Student 227,student227@example.com,9630109284,first,CS
+Student 228,student228@example.com,9959378020,first,EE
+Student 229,student229@example.com,9644273277,4,EE
+,student230@example.com,9783047972,2,EE
+Student 231,student177@example.com,,first,CS
+Student 232,invalid-email,9164729100,1,
+Student 233,student233@example.com,9929975084,1,CS
+Student 234,student234@example.com,9244155770,1,
+Student 235,student226@example.com,9163725135,first,CS
+,student236@example.com,9660566287,4,
+Student 237,student237@example.com,,3,
+,student238@example.com,9322744652,1,ME
+,student239@example.com,9505386247,4,CS
+Student 240,student240@example.com,,first,CS
+Student 241,student241@example.com,9951363747,1,CS
+Student 242,student242@example.com,,5,CS
+Student 243,student215@example.com,,2,EE
+Student 244,student244@example.com,9944724094,2,ME
+Student 245,student245@example.com,,4,
+Student 246,student246@example.com,,3,CS
+Student 247,student247@example.com,,3,ME
+Student 248,student248@example.com,9902786243,6,CS
+Student 249,student249@example.com,9540791349,4,
+Student 250,student250@example.com,9972392107,,
+Student 251,student251@example.com,9350993956,,EE
+Student 252,student252@example.com,9551571461,1,CS
+,student253@example.com,,2,ME
+,student254@example.com,9847835595,6,EE
+Student 255,student255@example.com,9773432926,6,CS
+Student 256,student256@example.com,9816455655,3,
+Student 257,student257@example.com,9712655030,1,
+Student 258,student258@example.com,,4,
+Student 259,student259@example.com,,first,ME
+Student 260,student260@example.com,9919827048,2,ME
+Student 261,student261@example.com,,,
+Student 262,student262@example.com,9970987450,4,ME
+Student 263,student263@example.com,9632297100,first,ME
+Student 264,invalid-email,9625905362,1,
+Student 265,student58@example.com,,,
+Student 266,student266@example.com,,3,EE
+Student 267,student267@example.com,9423705102,3,
+Student 268,student268@example.com,,5,
+Student 269,student269@example.com,,6,
+Student 270,student270@example.com,9863098127,2,ME
+Student 271,student271@example.com,9261096296,first,ME
+Student 272,student272@example.com,9700926163,first,CS
+,student273@example.com,,3,EE
+Student 274,invalid-email,9626472102,6,EE
+Student 275,student275@example.com,,6,CS
+Student 276,student276@example.com,9427905278,2,ME
+Student 277,student277@example.com,,2,
+Student 278,invalid-email,9199466186,first,
+Student 279,student279@example.com,,4,ME
+,student280@example.com,,6,EE
+Student 281,student36@example.com,9179780401,first,
+,student282@example.com,9255759687,2,EE
+Student 283,student283@example.com,,1,
+Student 284,student192@example.com,,6,
+Student 285,student285@example.com,9582386884,5,ME
+Student 286,student286@example.com,,first,
+Student 287,student287@example.com,9847239674,2,
+Student 288,student288@example.com,9606155015,3,
+,student289@example.com,9354713565,1,CS
+Student 290,student290@example.com,9501269693,6,
+Student 291,student291@example.com,,,CS
+,student292@example.com,,6,ME
+,student293@example.com,9986349629,,
+,student294@example.com,9112243684,6,
+Student 295,student295@example.com,9347549791,6,CS
+Student 296,student296@example.com,9980473977,3,
+Student 297,student297@example.com,9401423951,first,CS
+Student 298,student298@example.com,9450795435,5,
+Student 299,student91@example.com,,6,
+Student 300,student300@example.com,,,
+Student 301,student301@example.com,9360752274,4,
+Student 302,invalid-email,9862849459,1,
+Student 303,student303@example.com,9249808952,4,
+Student 304,student304@example.com,,,CS
+Student 305,student305@example.com,9788714152,first,
+Student 306,student306@example.com,9767490551,6,EE
+Student 307,student307@example.com,9196885187,first,ME
+Student 308,student308@example.com,9516905259,first,EE
+Student 309,student309@example.com,9614370164,1,ME
+Student 310,student310@example.com,9850999369,3,EE
+Student 311,student311@example.com,9280814053,first,
+Student 312,student312@example.com,9363229265,5,CS
+Student 313,student313@example.com,,5,
+,student314@example.com,9933137284,5,EE
+,student315@example.com,9421621246,3,CS
+Student 316,invalid-email,,4,ME
+Student 317,student317@example.com,,first,
+Student 318,student318@example.com,9136318729,6,ME
+Student 319,student319@example.com,,4,
+Student 320,student320@example.com,,first,
+Student 321,student321@example.com,9114745445,first,
+Student 322,student322@example.com,9425850721,,
+Student 323,student323@example.com,,5,
+Student 324,student324@example.com,,first,
+Student 325,student325@example.com,9630351573,3,ME
+Student 326,student229@example.com,9447927451,,
+Student 327,student77@example.com,9507441668,first,EE
+Student 328,student328@example.com,9298633632,4,CS
+Student 329,student329@example.com,,5,CS
+Student 330,student330@example.com,,1,CS
+Student 331,student331@example.com,9206079314,,CS
+Student 332,student332@example.com,9926135825,5,
+Student 333,student333@example.com,9780055237,6,ME
+Student 334,invalid-email,,first,ME
+Student 335,student335@example.com,9696749807,,
+Student 336,student336@example.com,,6,CS
+Student 337,student337@example.com,9723919440,4,EE
+Student 338,invalid-email,9131316528,5,EE
+Student 339,invalid-email,9581447761,1,
+Student 340,invalid-email,9440882402,2,EE
+Student 341,invalid-email,,first,
+Student 342,student108@example.com,9445623396,3,CS
+Student 343,student343@example.com,9690460229,4,
+,invalid-email,,6,EE
+,student345@example.com,,1,
+Student 346,invalid-email,9678837280,2,EE
+,student347@example.com,9498882237,4,
+Student 348,student348@example.com,9165806213,5,ME
+Student 349,invalid-email,9551669186,2,EE
+Student 350,student350@example.com,9269464003,,
+Student 351,student351@example.com,9432469318,4,ME
+,student352@example.com,9924836843,2,
+,student353@example.com,9813892140,,CS
+Student 354,student354@example.com,,2,
+Student 355,student355@example.com,,2,
+Student 356,student356@example.com,,6,
+Student 357,student357@example.com,9159434174,first,
+Student 358,student358@example.com,9904934180,5,CS
+Student 359,student173@example.com,9523368460,4,
+Student 360,student360@example.com,,first,
+Student 361,student361@example.com,9130671181,6,
+Student 362,student362@example.com,9765716421,6,
+Student 363,student363@example.com,9239465939,2,EE
+Student 364,student364@example.com,9745820333,2,
+Student 365,student365@example.com,9841082668,6,CS
+Student 366,invalid-email,,4,EE
+Student 367,student367@example.com,9974878457,,ME
+Student 368,invalid-email,,6,
+Student 369,student369@example.com,9817325068,first,EE
+Student 370,student370@example.com,9511362818,6,EE
+Student 371,invalid-email,9803228315,1,
+Student 372,student372@example.com,9292058794,5,CS
+Student 373,student373@example.com,9800199775,2,ME
+Student 374,student374@example.com,9212773605,6,ME
+Student 375,student375@example.com,9636497734,4,CS
+Student 376,student376@example.com,9611093220,2,EE
+,invalid-email,,,EE
+Student 378,student378@example.com,9408536161,first,ME
+,student379@example.com,9110392440,5,
+Student 380,student380@example.com,,,CS
+Student 381,student381@example.com,,1,ME
+Student 382,invalid-email,,6,EE
+,student383@example.com,,2,CS
+Student 384,student384@example.com,,first,EE
+Student 385,student385@example.com,9176586801,3,
+,student386@example.com,9562998550,4,
+Student 387,invalid-email,9104822368,4,
+Student 388,student388@example.com,9268027504,first,ME
+Student 389,student389@example.com,9786200359,1,
+Student 390,student390@example.com,9696898632,3,
+Student 391,invalid-email,,6,CS
+Student 392,student392@example.com,9839494734,4,
+Student 393,student393@example.com,9244722365,2,ME
+Student 394,invalid-email,,3,CS
+Student 395,student395@example.com,9520494950,1,EE
+Student 396,student396@example.com,9684751066,6,
+Student 397,student397@example.com,9765816717,3,
+Student 398,student398@example.com,,,ME
+Student 399,student399@example.com,9237411758,6,CS
+Student 400,student400@example.com,9750575087,4,ME
+Student 401,student401@example.com,9887858413,5,ME
+Student 402,student402@example.com,9739097014,,ME
+Student 403,student403@example.com,,4,ME
+Student 404,student404@example.com,,1,CS
+,student405@example.com,,4,
+Student 406,invalid-email,,first,ME
+,student407@example.com,9599397266,2,ME
+Student 408,student408@example.com,,5,
+Student 409,student409@example.com,9423913961,1,EE
+Student 410,student410@example.com,9929443297,,
+Student 411,student411@example.com,9746935614,4,
+Student 412,student196@example.com,9730280449,6,
+Student 413,student413@example.com,9411376243,1,
+Student 414,student414@example.com,9883189726,3,CS
+Student 415,student415@example.com,9625442365,3,CS
+Student 416,student416@example.com,9273750629,3,
+Student 417,student417@example.com,9884364072,1,ME
+,student418@example.com,,4,
+Student 419,student243@example.com,9185514076,1,ME
+Student 420,student420@example.com,9797429633,2,ME
+Student 421,student421@example.com,,,ME
+Student 422,student422@example.com,9449861260,,CS
+Student 423,student423@example.com,9343537569,3,
+Student 424,student424@example.com,,3,
+Student 425,student425@example.com,9685998161,2,ME
+Student 426,student426@example.com,9605155491,3,CS
+Student 427,student427@example.com,9353039473,1,
+Student 428,student428@example.com,,1,
+Student 429,student429@example.com,9392375572,2,
+Student 430,invalid-email,9208410032,first,EE
+Student 431,invalid-email,,,CS
+Student 432,student432@example.com,9422412319,4,ME
+Student 433,student433@example.com,9221060390,2,
+Student 434,student434@example.com,9413909322,,ME
+Student 435,student435@example.com,9868371013,3,EE
+,student436@example.com,9615592137,2,
+Student 437,student437@example.com,9822841507,4,
+Student 438,student438@example.com,,3,EE
+Student 439,student439@example.com,9588981279,first,ME
+,student440@example.com,9298936706,2,
+Student 441,student441@example.com,9696816568,,
+Student 442,student442@example.com,9608880024,5,
+Student 443,student443@example.com,9340282663,3,CS
+Student 444,student115@example.com,9125331249,3,ME
+Student 445,student52@example.com,9853328603,3,
+Student 446,student446@example.com,,6,EE
+Student 447,student447@example.com,9502160485,3,CS
+Student 448,student448@example.com,,3,ME
+Student 449,student449@example.com,,first,CS
+Student 450,student450@example.com,9208875682,6,
+Student 451,student451@example.com,9320766120,3,
+Student 452,student452@example.com,9117663014,6,ME
+Student 453,student453@example.com,,,CS
+Student 454,student454@example.com,9120552480,6,ME
+Student 455,student455@example.com,,1,EE
+Student 456,student456@example.com,,1,
+Student 457,student6@example.com,9928993655,3,ME
+Student 458,student458@example.com,9741415699,first,
+Student 459,student459@example.com,9703504600,first,ME
+Student 460,student460@example.com,9188230884,3,
+Student 461,student461@example.com,9112723925,first,
+Student 462,student462@example.com,9488973974,first,
+Student 463,student463@example.com,,3,CS
+Student 464,student464@example.com,9260002470,4,CS
+Student 465,student465@example.com,9699520990,6,CS
+Student 466,student466@example.com,9511205464,,ME
+,student467@example.com,9800670029,3,ME
+Student 468,student468@example.com,9111640220,first,
+Student 469,student469@example.com,9326016023,first,EE
+Student 470,student470@example.com,,1,ME
+Student 471,student93@example.com,9822768484,,ME
+Student 472,student472@example.com,,first,EE
+Student 473,student473@example.com,9656330014,1,CS
+Student 474,student474@example.com,,5,EE
+Student 475,student475@example.com,9264954796,first,
+,invalid-email,9489345399,first,
+Student 477,student477@example.com,9236393910,first,EE
+Student 478,student478@example.com,9582441560,2,
+Student 479,student448@example.com,9696011469,,EE
+Student 480,student20@example.com,,3,
+Student 481,student481@example.com,9134155445,,ME
+,student482@example.com,9614170433,2,EE
+Student 483,student483@example.com,9779206940,2,
+Student 484,student484@example.com,9161569741,1,
+Student 485,student485@example.com,9844483053,5,EE
+,student486@example.com,9405175653,3,ME
+Student 487,student487@example.com,,6,CS
+Student 488,student488@example.com,9752825398,4,EE
+Student 489,student489@example.com,9301938697,4,ME
+Student 490,student490@example.com,9217083969,first,EE
+Student 491,student491@example.com,9321053588,4,
+Student 492,student492@example.com,,first,
+Student 493,student493@example.com,9664567679,,CS
+,student494@example.com,,1,EE
+Student 495,student495@example.com,9327897399,1,EE
+Student 496,student496@example.com,9627009164,6,
+Student 497,invalid-email,,1,CS
+Student 498,student498@example.com,9878718734,4,
+Student 499,student499@example.com,,4,
+Student 500,student500@example.com,9590384164,6,
+Student 501,invalid-email,9792136882,4,
+Student 502,student502@example.com,9243549477,5,ME
+Student 503,student503@example.com,9207866792,2,
+Student 504,student504@example.com,9102820851,,EE
+Student 505,student455@example.com,9475406621,first,
+Student 506,student506@example.com,9325843677,,
+Student 507,student507@example.com,9201543437,first,
+Student 508,student508@example.com,9745218044,,
+Student 509,student509@example.com,9201367073,4,
+Student 510,student510@example.com,,3,
+Student 511,student511@example.com,9117657296,2,EE
+Student 512,student512@example.com,9542192653,5,ME
+Student 513,student513@example.com,9796032955,1,EE
+Student 514,student514@example.com,9372128608,first,ME
+Student 515,student515@example.com,9170340495,6,CS
+,student516@example.com,,5,
+Student 517,student517@example.com,9809149057,1,CS
+Student 518,invalid-email,9102427159,6,CS
+Student 519,student519@example.com,9894106240,3,CS
+Student 520,student520@example.com,,6,CS
+Student 521,student521@example.com,9858030017,first,
+Student 522,student522@example.com,9189928469,2,EE
+Student 523,student523@example.com,9166140509,6,
+Student 524,student524@example.com,9747485806,3,
+Student 525,student525@example.com,,,
+Student 526,invalid-email,9592365172,3,
+Student 527,student527@example.com,,4,
+Student 528,student528@example.com,,first,
+Student 529,student529@example.com,,3,ME
+Student 530,student530@example.com,9377458831,3,
+Student 531,student531@example.com,9529016051,,
+,student532@example.com,9491768189,,
+Student 533,student533@example.com,9305113162,5,EE
+Student 534,invalid-email,9243797453,,ME
+,invalid-email,9688253393,1,
+Student 536,student536@example.com,9822392970,5,ME
+Student 537,student537@example.com,,1,EE
+Student 538,invalid-email,9481125722,4,
+Student 539,student539@example.com,9347927067,2,EE
+Student 540,student540@example.com,9124426057,5,
+Student 541,student541@example.com,9287411760,4,ME
+Student 542,student542@example.com,,3,CS
+Student 543,student543@example.com,,2,
+Student 544,student544@example.com,,3,
+Student 545,student545@example.com,,2,EE
+Student 546,student546@example.com,9617043575,2,EE
+,student547@example.com,9541186137,,EE
+Student 548,student548@example.com,,6,EE
+Student 549,student549@example.com,9792843176,3,
+Student 550,student550@example.com,,2,ME
+Student 551,invalid-email,9998619867,6,CS
+Student 552,student552@example.com,,,EE
+Student 553,student553@example.com,9693907707,6,ME
+Student 554,student554@example.com,9108339901,1,
+Student 555,student555@example.com,9264798392,,CS
+Student 556,student556@example.com,,2,
+Student 557,student557@example.com,,2,
+Student 558,student558@example.com,,3,
+Student 559,student559@example.com,,3,CS
+Student 560,student560@example.com,9911655594,,
+Student 561,student561@example.com,9100934328,first,EE
+Student 562,student562@example.com,9876167148,1,EE
+,student563@example.com,9467736203,2,EE
+Student 564,student564@example.com,9572897228,2,CS
+Student 565,invalid-email,9279053239,5,EE
+Student 566,student566@example.com,,2,EE
+Student 567,student567@example.com,9701628263,3,EE
+Student 568,student568@example.com,,2,ME
+Student 569,student569@example.com,9456165715,5,
+,student570@example.com,9111468257,,ME
+Student 571,student571@example.com,,3,EE
+Student 572,student572@example.com,9869615328,first,EE
+Student 573,student573@example.com,,first,EE
+Student 574,student574@example.com,,first,
+Student 575,student575@example.com,9452103774,1,EE
+Student 576,student576@example.com,9380456495,6,ME
+Student 577,student577@example.com,9493570279,2,CS
+Student 578,student578@example.com,9417578423,6,ME
+Student 579,student579@example.com,9511059177,6,CS
+Student 580,student580@example.com,,3,
+Student 581,student581@example.com,9960007383,first,ME
+Student 582,student582@example.com,9934070390,6,CS
+Student 583,student583@example.com,,5,EE
+Student 584,student584@example.com,9234968780,,ME
+Student 585,student585@example.com,,,ME
+Student 586,student586@example.com,9349637132,2,CS
+Student 587,student587@example.com,,3,
+Student 588,student588@example.com,9867433030,4,
+Student 589,student589@example.com,,,
+Student 590,student590@example.com,,,
+Student 591,student591@example.com,,5,EE
+Student 592,student592@example.com,9475471804,4,
+Student 593,student593@example.com,,,CS
+,invalid-email,9968556562,6,
+Student 595,student595@example.com,9261477304,2,ME
+Student 596,student596@example.com,,3,
+Student 597,student597@example.com,9984564544,5,CS
+Student 598,student598@example.com,9674545032,5,ME
+Student 599,student552@example.com,9284256290,,ME
+Student 600,student600@example.com,9900829048,,CS
+,student601@example.com,,4,ME
+Student 602,student602@example.com,9685784501,2,CS
+Student 603,student603@example.com,,6,CS
+Student 604,invalid-email,9580608453,6,
+Student 605,student605@example.com,9893382741,2,CS
+Student 606,student606@example.com,9772126568,first,CS
+Student 607,student607@example.com,,,CS
+Student 608,invalid-email,9677426406,6,
+Student 609,student609@example.com,,4,
+Student 610,student610@example.com,,5,
+Student 611,student611@example.com,9546350948,6,CS
+Student 612,student612@example.com,9365426811,3,ME
+Student 613,student613@example.com,,4,ME
+Student 614,student614@example.com,,1,
+Student 615,student615@example.com,9770728676,first,
+Student 616,student616@example.com,9830478399,4,
+Student 617,student617@example.com,,4,EE
+Student 618,student618@example.com,9829458855,1,
+Student 619,student619@example.com,,1,
+Student 620,student620@example.com,9373499763,1,EE
+Student 621,student621@example.com,9910196884,1,
+Student 622,student622@example.com,9393671971,3,CS
+Student 623,student623@example.com,9361014255,5,CS
+Student 624,student624@example.com,9890466793,2,ME
+Student 625,student625@example.com,9145666869,first,EE
+Student 626,invalid-email,9409453617,5,
+Student 627,student627@example.com,,6,CS
+Student 628,student628@example.com,9150510120,5,CS
+Student 629,student629@example.com,,3,
+Student 630,student630@example.com,,1,
+Student 631,student631@example.com,9289170610,3,
+Student 632,student632@example.com,9862323435,6,
+Student 633,student633@example.com,9994667705,1,CS
+Student 634,student634@example.com,9511591461,1,ME
+Student 635,student635@example.com,9757229393,,CS
+,student636@example.com,,,
+Student 637,student637@example.com,9841088042,4,CS
+Student 638,student638@example.com,9797583289,2,ME
+,student639@example.com,9374552170,,CS
+Student 640,student640@example.com,,1,CS
+Student 641,student641@example.com,9921206341,4,
+Student 642,student642@example.com,9694743910,2,EE
+,student643@example.com,9358643848,first,
+Student 644,student112@example.com,9721919438,,EE
+,student645@example.com,9154935596,3,ME
+,student646@example.com,9607520120,2,
+Student 647,student647@example.com,,1,CS
+,student648@example.com,,5,EE
+Student 649,student649@example.com,9160317958,2,EE
+Student 650,student650@example.com,9391928504,3,ME
+Student 651,student651@example.com,9899396301,first,EE
+Student 652,student652@example.com,9980282332,,
+Student 653,student653@example.com,9316437913,6,
+Student 654,student654@example.com,,6,
+Student 655,student655@example.com,9350674649,1,ME
+Student 656,invalid-email,9792601911,2,EE
+,student657@example.com,9298466984,4,ME
+Student 658,student658@example.com,9941998825,4,ME
+Student 659,student66@example.com,9957536222,first,
+Student 660,student660@example.com,9970004123,first,CS
+,student661@example.com,,1,CS
+Student 662,student662@example.com,9527597171,3,
+Student 663,student663@example.com,9305992957,4,EE
+,student664@example.com,,first,ME
+Student 665,student665@example.com,9376871727,2,CS
+,student666@example.com,,6,
+Student 667,student667@example.com,,2,ME
+,invalid-email,9882779384,4,EE
+Student 669,student669@example.com,9567614154,4,EE
+,student670@example.com,9576648667,2,
+Student 671,student671@example.com,9503328898,4,
+,student672@example.com,,first,
+Student 673,student673@example.com,9536339233,3,EE
+Student 674,invalid-email,9719724307,1,
+Student 675,student675@example.com,9415896334,,
+Student 676,student676@example.com,,1,
+Student 677,student677@example.com,9603273414,,EE
+Student 678,student678@example.com,9778174876,5,ME
+Student 679,student679@example.com,9938218730,2,EE
+Student 680,invalid-email,,,
+Student 681,student681@example.com,9392149726,first,ME
+Student 682,student682@example.com,,,
+Student 683,student683@example.com,9494693682,,
+Student 684,student684@example.com,9714392023,2,
+Student 685,invalid-email,,4,
+Student 686,invalid-email,,4,EE
+,student687@example.com,9812033404,,
+Student 688,student688@example.com,9720606102,1,
+Student 689,student689@example.com,9312118730,6,CS
+Student 690,student690@example.com,,4,
+Student 691,student691@example.com,9355944851,4,
+Student 692,student692@example.com,,5,CS
+Student 693,student693@example.com,9855472162,2,
+Student 694,student694@example.com,,first,
+Student 695,student695@example.com,9672602058,first,
+Student 696,student696@example.com,9254989445,5,EE
+Student 697,student697@example.com,9987511975,4,EE
+Student 698,invalid-email,,first,CS
+Student 699,student699@example.com,9771432157,first,
+Student 700,student700@example.com,9641021347,6,CS
+Student 701,student701@example.com,9703774781,6,CS
+Student 702,invalid-email,9545788182,1,
+Student 703,student703@example.com,9850080003,first,ME
+Student 704,student704@example.com,9937182221,6,EE
+Student 705,student705@example.com,9557052152,,ME
+Student 706,student706@example.com,9410339330,4,
+Student 707,student707@example.com,,4,ME
+Student 708,student708@example.com,,3,CS
+Student 709,student709@example.com,,,EE
+Student 710,student710@example.com,,,CS
+Student 711,student711@example.com,9801779234,3,CS
+Student 712,student712@example.com,9281792659,1,ME
+Student 713,student713@example.com,9162836518,4,EE
+Student 714,student714@example.com,9532486183,1,EE
+,student715@example.com,9184993359,5,ME
+,student716@example.com,9340467815,5,
+Student 717,student717@example.com,9603151461,first,EE
+Student 718,student718@example.com,,6,EE
+Student 719,invalid-email,9649469045,1,
+Student 720,student720@example.com,,6,ME
+Student 721,student721@example.com,9893140205,4,CS
+Student 722,student722@example.com,9943924186,6,ME
+Student 723,student723@example.com,9615930545,6,
+Student 724,student724@example.com,9152417935,3,CS
+Student 725,invalid-email,9354799703,3,EE
+Student 726,student726@example.com,9289359008,first,CS
+Student 727,student727@example.com,9417394178,5,CS
+Student 728,invalid-email,9588540795,3,
+Student 729,student729@example.com,9843432481,1,EE
+Student 730,student730@example.com,9826895631,first,
+Student 731,invalid-email,9367768904,1,ME
+Student 732,student732@example.com,,1,ME
+,student733@example.com,9177114224,,ME
+Student 734,student734@example.com,,6,CS
+Student 735,invalid-email,9111924352,first,EE
+Student 736,student736@example.com,9907187219,5,EE
+Student 737,student737@example.com,9912475859,5,ME
+Student 738,invalid-email,9571474438,3,EE
+Student 739,student452@example.com,9661542664,2,
+Student 740,invalid-email,9911290593,1,CS
+Student 741,student741@example.com,9780229611,2,
+Student 742,student742@example.com,9526690341,1,
+Student 743,student743@example.com,,1,ME
+Student 744,student744@example.com,9760090921,6,
+Student 745,student745@example.com,9445240537,first,CS
+Student 746,student746@example.com,,5,EE
+Student 747,student747@example.com,,2,CS
+Student 748,invalid-email,9126165286,1,ME
+Student 749,invalid-email,,4,
+Student 750,student750@example.com,9815561114,,EE
+Student 751,student751@example.com,,first,ME
+Student 752,student752@example.com,9637362523,4,EE
+Student 753,student753@example.com,9312835275,,CS
+Student 754,student754@example.com,9967205788,6,CS
+Student 755,invalid-email,9126796483,,EE
+Student 756,student756@example.com,9913404331,5,ME
+Student 757,student757@example.com,9483841511,,ME
+Student 758,student758@example.com,9551471303,5,CS
+Student 759,student759@example.com,9351133857,5,ME
+Student 760,student760@example.com,9207338220,first,CS
+,student761@example.com,,5,CS
+Student 762,student762@example.com,9573956638,5,
+Student 763,student763@example.com,9660755296,1,CS
+Student 764,student764@example.com,9153529532,1,EE
+Student 765,student765@example.com,,first,
+Student 766,invalid-email,9390712825,3,
+Student 767,student767@example.com,,6,
+Student 768,student768@example.com,9258614055,,CS
+Student 769,student769@example.com,9700612601,first,
+Student 770,student770@example.com,9300246553,3,
+Student 771,student771@example.com,,first,EE
+Student 772,student772@example.com,9497035538,3,
+Student 773,student773@example.com,9180028656,1,
+Student 774,student774@example.com,9520790425,first,
+Student 775,student775@example.com,9235865377,,
+Student 776,student776@example.com,9630859865,,EE
+Student 777,student777@example.com,9496684124,first,
+Student 778,student778@example.com,9446359481,6,
+Student 779,student779@example.com,9699214228,4,
+Student 780,student780@example.com,9362614988,,
+Student 781,student781@example.com,,1,
+Student 782,student782@example.com,,,EE
+Student 783,invalid-email,9496882907,1,
+Student 784,student784@example.com,9488708145,5,
+Student 785,student785@example.com,9637558739,3,ME
+Student 786,student786@example.com,9727455567,first,
+Student 787,student787@example.com,,1,ME
+Student 788,student788@example.com,,2,EE
+Student 789,student789@example.com,,5,CS
+Student 790,student790@example.com,9663148342,1,
+Student 791,student791@example.com,9437681441,,EE
+Student 792,student792@example.com,,4,EE
+Student 793,student793@example.com,,1,ME
+Student 794,student794@example.com,9404381488,2,ME
+Student 795,student795@example.com,9118355431,,EE
+,student796@example.com,9185705266,1,
+Student 797,student797@example.com,9131393512,3,CS
+,student218@example.com,9454827057,1,
+Student 799,student799@example.com,9546074983,3,
+Student 800,student800@example.com,9413082258,3,
+,student801@example.com,,first,
+Student 802,student802@example.com,9493536351,5,
+Student 803,student803@example.com,,5,CS
+Student 804,student804@example.com,9940243743,5,CS
+Student 805,student805@example.com,,3,EE
+Student 806,student806@example.com,9279453090,6,
+Student 807,invalid-email,9396234912,6,EE
+Student 808,student808@example.com,9464798604,1,CS
+Student 809,student809@example.com,9621506541,first,EE
+Student 810,student810@example.com,9848799845,,
+Student 811,student811@example.com,9936729877,3,ME
+Student 812,student812@example.com,,first,EE
+Student 813,student813@example.com,9297267595,3,
+Student 814,student814@example.com,9558703438,5,
+Student 815,student815@example.com,,,EE
+Student 816,student816@example.com,9968444791,3,EE
+Student 817,student817@example.com,9545601278,3,CS
+Student 818,student818@example.com,9252131620,5,
+Student 819,student819@example.com,9659631836,4,
+Student 820,invalid-email,9968159250,6,ME
+Student 821,student821@example.com,,2,EE
+Student 822,student822@example.com,,1,
+Student 823,student823@example.com,9319134775,6,CS
+Student 824,student824@example.com,9212532993,,EE
+,student825@example.com,9445311113,3,EE
+Student 826,student826@example.com,9695079515,,EE
+Student 827,student827@example.com,9719569925,2,
+,student828@example.com,,5,EE
+Student 829,student829@example.com,,3,
+Student 830,invalid-email,,2,CS
+Student 831,student831@example.com,9329680845,6,ME
+Student 832,student832@example.com,9194896206,5,ME
+Student 833,student833@example.com,9505766382,4,
+Student 834,student691@example.com,9542943942,2,CS
+Student 835,student835@example.com,9464893654,,EE
+Student 836,student836@example.com,9783823717,6,
+Student 837,student837@example.com,9181975433,6,ME
+Student 838,student838@example.com,9129873216,6,CS
+,student839@example.com,9593278513,1,
+Student 840,invalid-email,9258495544,1,CS
+Student 841,student841@example.com,9594347774,6,EE
+Student 842,student842@example.com,9853138862,6,EE
+,student843@example.com,9397336753,6,
+Student 844,student844@example.com,9380972550,first,CS
+Student 845,invalid-email,9784805264,2,ME
+Student 846,student846@example.com,9535434178,,
+Student 847,student847@example.com,9361008007,4,
+Student 848,student848@example.com,9194839229,6,CS
+Student 849,student849@example.com,9623602426,3,ME
+Student 850,student850@example.com,9964970130,4,ME
+Student 851,invalid-email,9228161787,2,CS
+Student 852,student852@example.com,9171202892,6,
+Student 853,student853@example.com,9273038414,1,
+Student 854,student854@example.com,9149301271,5,CS
+Student 855,student855@example.com,,6,ME
+Student 856,invalid-email,9850145698,first,ME
+Student 857,invalid-email,9335624359,first,
+Student 858,student858@example.com,9399400872,first,
+Student 859,student859@example.com,9883993484,5,ME
+Student 860,student860@example.com,9628766817,5,
+Student 861,student109@example.com,,1,
+Student 862,student862@example.com,9249061801,1,CS
+,student863@example.com,9800863959,6,EE
+,student864@example.com,9378365868,4,CS
+,student865@example.com,9288192850,3,
+Student 866,student866@example.com,9101401400,4,CS
+Student 867,student867@example.com,,5,EE
+Student 868,student383@example.com,,3,CS
+Student 869,invalid-email,9657527493,3,EE
+Student 870,student870@example.com,,1,
+Student 871,student871@example.com,9555873847,6,EE
+Student 872,student872@example.com,9910114424,4,
+Student 873,student873@example.com,,4,
+Student 874,student874@example.com,9642571382,5,EE
+Student 875,student875@example.com,9195480472,1,CS
+Student 876,student876@example.com,9338564142,1,
+Student 877,student877@example.com,,5,ME
+Student 878,student878@example.com,,,
+,invalid-email,,1,CS
+Student 880,student880@example.com,9860518233,4,ME
+Student 881,student881@example.com,9797306016,,
+,student882@example.com,9615517920,3,ME
+Student 883,student883@example.com,,5,
+Student 884,student884@example.com,,1,CS
+Student 885,student885@example.com,,3,
+Student 886,student12@example.com,,,ME
+Student 887,student887@example.com,9968963950,4,
+Student 888,student888@example.com,9397484104,3,
+Student 889,student889@example.com,9281111117,6,
+Student 890,student890@example.com,9462372780,first,ME
+Student 891,student891@example.com,9765959493,first,ME
+,invalid-email,,4,EE
+Student 893,student893@example.com,9755892576,first,ME
+Student 894,student894@example.com,9280398267,5,
+Student 895,student882@example.com,9992814495,6,
+Student 896,student896@example.com,9982563890,2,ME
+,student897@example.com,9774998467,4,CS
+Student 898,student898@example.com,9847046849,3,ME
+Student 899,student899@example.com,9849354726,first,CS
+Student 900,student900@example.com,9162681032,2,
+Student 901,student901@example.com,9850240791,,CS
+Student 902,invalid-email,9499249421,4,ME
+Student 903,student903@example.com,9876093024,1,
+Student 904,student904@example.com,9703479509,,
+Student 905,student905@example.com,9899600328,2,ME
+Student 906,student906@example.com,9285233622,4,ME
+Student 907,student907@example.com,9336549365,2,
+Student 908,student908@example.com,,3,
+Student 909,student909@example.com,,6,EE
+Student 910,invalid-email,9190105871,,EE
+Student 911,student911@example.com,9590449410,1,CS
+Student 912,student912@example.com,,3,EE
+Student 913,student913@example.com,9663961095,5,EE
+Student 914,student914@example.com,,3,
+Student 915,student915@example.com,9373136318,5,
+,student916@example.com,9171898063,2,ME
+Student 917,student917@example.com,9824587303,6,
+,invalid-email,9321333185,6,EE
+Student 919,student919@example.com,9531848181,3,
+Student 920,invalid-email,,6,EE
+Student 921,student921@example.com,,1,
+Student 922,student922@example.com,,6,
+Student 923,student923@example.com,9208750062,6,CS
+Student 924,student924@example.com,9999382468,4,
+Student 925,student925@example.com,9757798237,2,
+Student 926,student926@example.com,9223641645,6,ME
+Student 927,student927@example.com,9424901015,4,
+Student 928,student928@example.com,9318380768,4,CS
+Student 929,student929@example.com,9937951319,first,
+Student 930,student930@example.com,9439017364,6,CS
+Student 931,student931@example.com,,5,EE
+Student 932,student932@example.com,9622862871,,
+Student 933,student933@example.com,9858565433,2,
+Student 934,student934@example.com,9274407198,3,EE
+Student 935,student935@example.com,9976895762,1,
+Student 936,invalid-email,9748522112,,EE
+Student 937,student576@example.com,,2,EE
+Student 938,student938@example.com,9171743801,1,
+Student 939,student939@example.com,9474958791,2,EE
+Student 940,student940@example.com,9345112723,6,ME
+,student941@example.com,,1,ME
+Student 942,student942@example.com,9917115828,first,
+Student 943,student943@example.com,9744438182,6,
+Student 944,student944@example.com,9534358569,4,
+Student 945,student945@example.com,,4,EE
+Student 946,student946@example.com,,1,ME
+Student 947,student947@example.com,9263383029,first,
+Student 948,student948@example.com,9545461259,6,CS
+Student 949,student949@example.com,9548480373,,EE
+Student 950,student950@example.com,,4,CS
+Student 951,invalid-email,,4,EE
+Student 952,student952@example.com,9784839788,first,
+Student 953,student953@example.com,,first,
+Student 954,student954@example.com,,5,EE
+Student 955,student955@example.com,9838795783,5,
+Student 956,student956@example.com,,3,EE
+Student 957,invalid-email,9852804533,first,CS
+Student 958,student958@example.com,9345068380,4,CS
+,student959@example.com,,6,EE
+Student 960,invalid-email,9108850203,2,ME
+Student 961,student961@example.com,9689325682,3,
+Student 962,student962@example.com,9324282185,4,EE
+Student 963,student963@example.com,9789730135,3,
+,student964@example.com,,1,
+Student 965,student965@example.com,9983299286,2,EE
+Student 966,student966@example.com,9854828251,4,
+Student 967,student967@example.com,9272287679,5,ME
+Student 968,student968@example.com,,3,EE
+Student 969,student969@example.com,9392039028,6,EE
+Student 970,student970@example.com,,first,ME
+Student 971,student971@example.com,9691459890,5,
+Student 972,student972@example.com,9160154585,5,ME
+Student 973,student973@example.com,9675940342,2,
+Student 974,student974@example.com,9239456992,4,CS
+Student 975,student975@example.com,9354724258,6,
+,student976@example.com,9700564352,6,
+Student 977,student977@example.com,,2,
+Student 978,student978@example.com,9381756814,5,ME
+Student 979,student979@example.com,9938000154,5,
+Student 980,student980@example.com,,4,CS
+Student 981,student981@example.com,9829715182,first,ME
+Student 982,student982@example.com,9433373059,,
+Student 983,student983@example.com,,6,
+Student 984,student984@example.com,9449465243,2,
+,student985@example.com,9243662970,5,
+Student 986,student986@example.com,9313679249,,ME
+Student 987,student987@example.com,,2,
+Student 988,student988@example.com,9668707664,,
+Student 989,student989@example.com,,5,
+Student 990,student990@example.com,9617872761,,
+Student 991,student991@example.com,9649865648,6,
+Student 992,student992@example.com,,first,CS
+,student993@example.com,9599853568,first,CS
+Student 994,student994@example.com,9548853115,first,
+Student 995,student995@example.com,,1,
+Student 996,student996@example.com,9583920222,first,
+Student 997,student997@example.com,,1,
+Student 998,invalid-email,,6,CS
+Student 999,student999@example.com,,4,CS
+Student 1000,student1000@example.com,9222405810,1,

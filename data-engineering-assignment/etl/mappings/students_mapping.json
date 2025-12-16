@@ -1,0 +1,17 @@
+{
+  "source": "google_sheets",
+  "target_table": "students",
+  "business_key": ["email"],
+  "columns": {
+    "Name": "students.name",
+    "Email": "students.email",
+    "Phone": "students.phone",
+    "Year": "students.year",
+    "Dept": "departments.name"
+  }
+}
+
+
+
+
+
